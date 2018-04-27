@@ -1,11 +1,7 @@
 # BASIC SETTINGS
 title: Dr. Gerald F M Page
-author: Gerald Page
 email: gerald.page@oregonstate.edu
-description: Academic website
 github_username: pageg
-researchgate_username: Gerald_Page
-googlescholar_username: 5zlFWawAAAAJ&hl
 
 # BUILD SETTINGS
 markdown: kramdown
