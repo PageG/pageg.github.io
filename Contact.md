@@ -1,7 +1,7 @@
 --- 
 layout: page
 title: Contact
---
+---
 
 Department of Forest Ecosystems and Society
 College of Forestry
