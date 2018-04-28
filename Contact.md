@@ -3,7 +3,6 @@ layout: page
 title: Contact
 ---
 
-Dr. Gerald F M Page
 321 Richardson Hall  
 Department of Forest Ecosystems and Society  
 Oregon State Unversity  
