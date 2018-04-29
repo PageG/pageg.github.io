@@ -27,7 +27,7 @@ with *Assistant Prof. Kevan B. Moffett*
 
 **(2015)** Adjunct Lecturer, School of Plant Biology, The University of Western Australia
 
-**(2013 - 2015)** Senior Research Officer, School of Plant Biology, The University of Western Australia
+**(2013 - 2014)** Senior Research Officer, School of Plant Biology, The University of Western Australia
 
 **(2011)** Ecologist, Rio Tinto, Perth, Western Australia
 
