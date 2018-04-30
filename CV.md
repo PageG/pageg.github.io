@@ -3,6 +3,8 @@ layout: page
 title: CV
 ---
 
+![home_image]({{ site.url }}/images/mulga.jpg)
+
 321 Richardson Hall  
 Department of Forest Ecosystems and Society  
 Oregon State Unversity  
