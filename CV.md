@@ -15,17 +15,17 @@ W: https://pageg.github.io/
 ## Education
 
 **Ph.D. Botany (2014)**, The University of Western Australia    
-    - Advisor: Dr. Pauline F. Grierson [website](http://www.web.uwa.edu.au/person/Pauline.Grierson)  
+    - Advisor: Dr. Pauline F. Grierson [[website]](http://www.web.uwa.edu.au/person/Pauline.Grierson)  
     - “Morphological and ecophysiological diversity of Mulga (*Acacia aneura* complex) in the Hamersley Ranges”
 
 **BSc. (Hons) (2004)**, The University of Western Australia, Environmental Science  
 
 ## Professional appointments
 **(2017 – present)** Postdoctoral Research Associate, Department of Forest Ecosystems & Society, Oregon State University   
-with *Associate Prof. Chris J. Still* [website](http://fes.forestry.oregonstate.edu/people?path=people/still-chris)
+with *Associate Prof. Chris J. Still* [[website]](http://fes.forestry.oregonstate.edu/people?path=people/still-chris)
 
 **(2015 - 2017)** Postdoctoral Research Associate, School of the Environment, Washington State University Vancouver  
-with *Assistant Prof. Kevan B. Moffett* [website](https://labs.wsu.edu/ecohydrology/)
+with *Assistant Prof. Kevan B. Moffett* [[website]](https://labs.wsu.edu/ecohydrology/)
 
 **(2015)** Adjunct Lecturer, School of Plant Biology, The University of Western Australia
 
