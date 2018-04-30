@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Publications
 ---
-
-## Publications
 
 Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAAAAJ&hl=en) profile.
 
