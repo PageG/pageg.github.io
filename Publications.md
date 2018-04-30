@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+![home_image]({{ site.url }}/images/StHelens.JPG)
+
 Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAAAAJ&hl=en) profile.
 
 **Page GFM**, Liénard JF, Pruett MJ, Moffett KB. (2018) Spatiotemporal dynamics of leaf transpiration quantified with time-series thermal imaging. Agricultural and Forest Meteorology [[article]](https://www.sciencedirect.com/science/article/pii/S016819231830073X) [[github]](https://github.com/PageG/leaf_TIR) [[zenodo]](https://zenodo.org/record/1167842#.WuOOCpch270)
