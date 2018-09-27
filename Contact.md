@@ -10,4 +10,4 @@ Corvallis, OR, USA, 97333
 E: gerald.page@oregonstate.edu  
 W: pageg.github.io  
 
-![home_image]({{ site.url }}/images/boat.JPG)
+![home_image]({{ site.url }}/images/Page_small.JPG)
