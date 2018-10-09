@@ -49,6 +49,8 @@ O’Donnell AJ, Cook ER, Palmer JG, Turney CSM, **Page GFM**, Grierson PF. (2015
 
 
 ## Conference Presentations
+**Page GFM**, Kim Y, Jiang Y, Rastogi B, Kwon H, Law BE, Still CJ. (2018) Comparing leaf temperature with canopy carbon and water fluxes during heat waves. AGU Fall Meeting, Washington DC, 10th – 14th December.
+
 **Page GFM**, Pruett MJ, Lienard J, Strigul N, Moffett KB. (2016) Scaling up transpiration from leaf to whole-plant with increasing canopy complexity using a time-series of high-resolution thermal infrared imagery. Ecological Society of America Annual Meeting 2016. Fort Lauderdale, Florida, USA, 7th – 12th August
 
 Grierson PF, **Page GFM**, Skrzypek G, Dogramaci S, Luccitti S, O’Donnell A. (2014) Understanding Patterns of Water Use in a Subtropical Woodland Using Stable Isotopes. European Geosciences Union General Assembly 2015. Vienna, Austria, 12th – 17th April
