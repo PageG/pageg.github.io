@@ -49,6 +49,8 @@ O’Donnell AJ, Cook ER, Palmer JG, Turney CSM, **Page GFM**, Grierson PF. (2015
 
 
 ## Conference Presentations
+**Page GFM**, Kim Y, Jiang Y, Rastogi B, Wharton S, Kim JB, Kwon H, Law BE, Still CJ. (2019) Comparing leaf temperature with measured and modeled canopy carbon and water fluxes during heat waves. University of Oregon Climate Change Symposium, Eugene OR, 5th March
+
 **Page GFM**, Kim Y, Jiang Y, Rastogi B, Kwon H, Law BE, Still CJ. (2018) Comparing leaf temperature with canopy carbon and water fluxes during heat waves. AGU Fall Meeting, Washington DC, 10th – 14th December.
 
 **Page GFM**, Pruett MJ, Lienard J, Strigul N, Moffett KB. (2016) Scaling up transpiration from leaf to whole-plant with increasing canopy complexity using a time-series of high-resolution thermal infrared imagery. Ecological Society of America Annual Meeting 2016. Fort Lauderdale, Florida, USA, 7th – 12th August
@@ -86,6 +88,7 @@ Grierson PF, **Page GFM**, Skrzypek G, Argus R, Bleby T, McLean EH. (2014) Under
 **Page GFM**, Liu J, Grierson PF. (2011) Small differences with large consequences: the importance of phyllode size in arid environments. The Ecology and Evolution of Leaf Vein Networks, Workshop held at The University of Western Australia, 14th November.
 
 ## Poster Presentations
+**Page GFM**, Kim Y, Jiang Y, Rastogi B, Wharton S, Kim JB, Kwon H, Law BE, Still CJ. (2019) Comparing leaf temperature with measured and modeled canopy carbon and water fluxes during heat waves. European Geosciences Union General Assembly, Vienna, Austria, 7th - 12th April
 
 **Page GFM**, Pruett MJ, Moffett KB. (2016) A new method to calculate spatially distributed leaf & canopy transpiration from time-series thermal infrared imagery. Gordon Research Conference: Multiscale Plant Vascular Biology. Sunday River, Maine, USA, 26th June – 1st July
 
