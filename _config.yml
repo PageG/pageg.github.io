@@ -1,9 +1,11 @@
 # BASIC SETTINGS
 title: Dr. Gerald F M Page
 email: gerald.page@oregonstate.edu
-github: pageg
-twitter: gfmpage1
-linkedin: gerald-page-88b73187
+
+social_links:
+  github: pageg
+  twitter: gfmpage1
+  linkedin: gerald-page-88b73187
 
 header_pages:
   - index.md
