@@ -2,10 +2,11 @@
 title: Dr. Gerald F M Page
 email: gerald.page@oregonstate.edu
 
-social_links:
-  github: pageg
-  twitter: gfmpage1
-  linkedin: gerald-page-88b73187
+minima:
+  social_links:
+    github: pageg
+    twitter: gfmpage1
+    linkedin: gerald-page-88b73187
 
 header_pages:
   - index.md
