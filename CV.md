@@ -37,7 +37,7 @@ with *Assistant Prof. Kevan B. Moffett* [[website]](https://labs.wsu.edu/ecohydr
 
 ## Publications
 
-**Page GFM**, Liénard JF, Pruett MJ, Moffett KB. (2018) Spatiotemporal dynamics of leaf transpiration quantified with time-series thermal imaging. Agricultural and Forest Meteorology [[article]](https://www.sciencedirect.com/science/article/pii/S016819231830073X) [[github]](https://github.com/PageG/leaf_TIR) [[zenodo]](https://zenodo.org/record/1167842#.WuOOCpch270)
+**Page GFM**, Liénard JF, Pruett MJ, Moffett KB. (2018) Spatiotemporal dynamics of leaf transpiration quantified with time-series thermal imaging. Agricultural and Forest Meteorology, 256–257, 304–314 [[article]](https://www.sciencedirect.com/science/article/pii/S016819231830073X) [[github]](https://github.com/PageG/leaf_TIR) [[zenodo]](https://zenodo.org/record/1167842#.WuOOCpch270)
 
 **Page GFM**, Merchant A, Grierson PF. (2016) Inter-specific differences in the dynamics of water use and pulse-response of co-dominant canopy species in a dryland woodland. Journal of Arid Environments, 124, 332-340 [[article]](https://www.sciencedirect.com/science/article/pii/S0140196315300501)
 
