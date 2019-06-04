@@ -7,7 +7,7 @@ title: Publications
 
 Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAAAAJ&hl=en) profile.
 
-Jiang Y, Still CJ, Rastogi B, **Page GFM**, Wharton S, Meinzer FC, Voelker S, Kim JB. (In Press) Trends and controls on water-use efficiency of an old-growth coniferous forest in the Pacific Northwest. Environmental Research Letters.
+Jiang Y, Still CJ, Rastogi B, **Page GFM**, Wharton S, Meinzer FC, Voelker S, Kim JB. (2019) Trends and controls on water-use efficiency of an old-growth coniferous forest in the Pacific Northwest. Environmental Research Letters. [[article]](https://iopscience.iop.org/article/10.1088/1748-9326/ab2612/meta)
 
 **Page GFM**, Liénard JF, Pruett MJ, Moffett KB. (2018) Spatiotemporal dynamics of leaf transpiration quantified with time-series thermal imaging. Agricultural and Forest Meteorology, 256–257, 304–314 [[article]](https://www.sciencedirect.com/science/article/pii/S016819231830073X) [[github]](https://github.com/PageG/leaf_TIR) [[zenodo]](https://zenodo.org/record/1167842#.WuOOCpch270)
 
