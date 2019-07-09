@@ -51,6 +51,8 @@ O’Donnell AJ, Cook ER, Palmer JG, Turney CSM, **Page GFM**, Grierson PF. (2015
 
 
 ## Conference Presentations
+**Page GFM**, Haagsma M, Johnson JS, Sniezko R, Waring KM, Still CJ. (2019) Using thermal and chlorophyll fluorescence imaging to compare the physiological responses of resistant and susceptible seedlings to infection by an invasive pathogen. 12th North American Forest Ecology Workshop, Flagstaff AZ, 24th – 27th June
+
 **Page GFM**, Kim Y, Jiang Y, Rastogi B, Wharton S, Kim JB, Kwon H, Law BE, Still CJ. (2019) Comparing leaf temperature with measured and modeled canopy carbon and water fluxes during heat waves. University of Oregon Climate Change Symposium, Eugene OR, 5th March
 
 **Page GFM**, Kim Y, Jiang Y, Rastogi B, Kwon H, Law BE, Still CJ. (2018) Comparing leaf temperature with canopy carbon and water fluxes during heat waves. AGU Fall Meeting, Washington DC, 10th – 14th December.
