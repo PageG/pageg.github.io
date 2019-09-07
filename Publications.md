@@ -7,7 +7,11 @@ title: Publications
 
 Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAAAAJ&hl=en) profile.
 
-Jiang Y, Still CJ, Rastogi B, **Page GFM**, Wharton S, Meinzer FC, Voelker S, Kim JB. (2019) Trends and controls on water-use efficiency of an old-growth coniferous forest in the Pacific Northwest. Environmental Research Letters, in press [[article]](https://doi.org/10.1088/1748-9326/ab2612)
+Still CJ, Sibley A, **Page GFM**, Meinzer FC, Sevanto S. (In Press) When a cuvette is not a canopy: a caution about measuring leaf temperature during gas exchange measurements. Agricultural and Forest Meteorology.
+
+Skrzypek G, Dogramaci S, **Page GFM**, Rouillard A, Grierson PF. (In Press) Unique stable isotope signatures of large cyclonic events as a tracer of soil moisture dynamics in the semiarid subtropics. Journal of Hydrology.
+
+Jiang Y, Still CJ, Rastogi B, **Page GFM**, Wharton S, Meinzer FC, Voelker S, Kim JB. (2019) Trends and controls on water-use efficiency of an old-growth coniferous forest in the Pacific Northwest. Environmental Research Letters, 14, 074029 [[article]](https://doi.org/10.1088/1748-9326/ab2612)
 
 **Page GFM**, Liénard JF, Pruett MJ, Moffett KB. (2018) Spatiotemporal dynamics of leaf transpiration quantified with time-series thermal imaging. Agricultural and Forest Meteorology, 256–257, 304–314 [[article]](https://www.sciencedirect.com/science/article/pii/S016819231830073X) [[github]](https://github.com/PageG/leaf_TIR) [[zenodo]](https://zenodo.org/record/1167842#.WuOOCpch270)
 
