@@ -37,9 +37,9 @@ with *Assistant Prof. Kevan B. Moffett* [[website]](https://labs.wsu.edu/ecohydr
 
 ## Publications
 
-Still CJ, Sibley A, **Page GFM**, Meinzer FC, Sevanto S. (In Press) When a cuvette is not a canopy: a caution about measuring leaf temperature during gas exchange measurements. Agricultural and Forest Meteorology.
+Still CJ, Sibley A, **Page GFM**, Meinzer FC, Sevanto S. (In Press) When a cuvette is not a canopy: a caution about measuring leaf temperature during gas exchange measurements. Agricultural and Forest Meteorology. [[article]](https://doi.org/10.1016/j.agrformet.2019.107737)
 
-Skrzypek G, Dogramaci S, **Page GFM**, Rouillard A, Grierson PF. (In Press) Unique stable isotope signatures of large cyclonic events as a tracer of soil moisture dynamics in the semiarid subtropics. Journal of Hydrology.
+Skrzypek G, Dogramaci S, **Page GFM**, Rouillard A, Grierson PF. (In Press) Unique stable isotope signatures of large cyclonic events as a tracer of soil moisture dynamics in the semiarid subtropics. Journal of Hydrology. [[article]](https://doi.org/10.1016/j.jhydrol.2019.124124)
 
 Jiang Y, Still CJ, Rastogi B, **Page GFM**, Wharton S, Meinzer FC, Voelker S, Kim JB. (2019) Trends and controls on water-use efficiency of an old-growth coniferous forest in the Pacific Northwest. Environmental Research Letters, 14, 074029 [[article]](https://doi.org/10.1088/1748-9326/ab2612)
 
