@@ -21,7 +21,12 @@ W: https://pageg.github.io/
 **BSc. (Hons) (2004)**, The University of Western Australia, Environmental Science  
 
 ## Professional appointments
-**(2017 – present)** Postdoctoral Research Associate, Department of Forest Ecosystems & Society, Oregon State University   
+**(2020 - Present)** Research Scientist, Department of Biodiversity, Conservation and Attractions, Government of Western Australia. [[DBCA website]](https://www.dbca.wa.gov.au/)
+
+**(2019 – 2020)** Postdoctoral Researcher, Rocky Mountain Biological Laboratory, Colorado, USA   
+with *Associate Prof. Chris J. Still* (OSU) and *Assistant Prof. Maxwell Berkelhammer* (UIC) [[website]](https://www.rmbl.org/)
+
+**(2017 – 2020)** Postdoctoral Research Associate, Department of Forest Ecosystems & Society, Oregon State University   
 with *Associate Prof. Chris J. Still* [[website]](http://fes.forestry.oregonstate.edu/people?path=people/still-chris)
 
 **(2015 - 2017)** Postdoctoral Research Associate, School of the Environment, Washington State University Vancouver  
@@ -37,9 +42,9 @@ with *Assistant Prof. Kevan B. Moffett* [[website]](https://labs.wsu.edu/ecohydr
 
 ## Publications
 
-Still CJ, Sibley A, **Page GFM**, Meinzer FC, Sevanto S. (In Press) When a cuvette is not a canopy: a caution about measuring leaf temperature during gas exchange measurements. Agricultural and Forest Meteorology. [[article]](https://doi.org/10.1016/j.agrformet.2019.107737)
+Still CJ, Sibley A, **Page GFM**, Meinzer FC, Sevanto S. (In Press) When a cuvette is not a canopy: a caution about measuring leaf temperature during gas exchange measurements. Agricultural and Forest Meteorology, 279, 107737. [[article]](https://doi.org/10.1016/j.agrformet.2019.107737)
 
-Skrzypek G, Dogramaci S, **Page GFM**, Rouillard A, Grierson PF. (In Press) Unique stable isotope signatures of large cyclonic events as a tracer of soil moisture dynamics in the semiarid subtropics. Journal of Hydrology. [[article]](https://doi.org/10.1016/j.jhydrol.2019.124124)
+Skrzypek G, Dogramaci S, **Page GFM**, Rouillard A, Grierson PF. (In Press) Unique stable isotope signatures of large cyclonic events as a tracer of soil moisture dynamics in the semiarid subtropics. Journal of Hydrology, 578, 124124. [[article]](https://doi.org/10.1016/j.jhydrol.2019.124124)
 
 Jiang Y, Still CJ, Rastogi B, **Page GFM**, Wharton S, Meinzer FC, Voelker S, Kim JB. (2019) Trends and controls on water-use efficiency of an old-growth coniferous forest in the Pacific Northwest. Environmental Research Letters, 14, 074029 [[article]](https://doi.org/10.1088/1748-9326/ab2612)
 
@@ -54,7 +59,7 @@ O’Donnell AJ, Cook ER, Palmer JG, Turney CSM, **Page GFM**, Grierson PF. (2015
 **Page GFM**, Cullen LE, van Leeuwen S, Grierson PF. (2011) Inter- and intra-specific variation in phyllode size and growth form among closely related Mimosaceae Acacia species across a semi-arid landscape gradient. Australian Journal of Botany, 59, 426-439 [[article]](http://www.publish.csiro.au/bt/BT11057)
 
 
-## Conference Presentations
+## Conference Presentations as first author
 **Page GFM**, Haagsma M, Johnson JS, Sniezko R, Waring KM, Still CJ. (2019) Using thermal and chlorophyll fluorescence imaging to compare the physiological responses of resistant and susceptible seedlings to infection by an invasive pathogen. 12th North American Forest Ecology Workshop, Flagstaff AZ, 24th – 27th June
 
 **Page GFM**, Kim Y, Jiang Y, Rastogi B, Wharton S, Kim JB, Kwon H, Law BE, Still CJ. (2019) Comparing leaf temperature with measured and modeled canopy carbon and water fluxes during heat waves. University of Oregon Climate Change Symposium, Eugene OR, 5th March
@@ -63,13 +68,9 @@ O’Donnell AJ, Cook ER, Palmer JG, Turney CSM, **Page GFM**, Grierson PF. (2015
 
 **Page GFM**, Pruett MJ, Lienard J, Strigul N, Moffett KB. (2016) Scaling up transpiration from leaf to whole-plant with increasing canopy complexity using a time-series of high-resolution thermal infrared imagery. Ecological Society of America Annual Meeting 2016. Fort Lauderdale, Florida, USA, 7th – 12th August
 
-Grierson PF, **Page GFM**, Skrzypek G, Dogramaci S, Luccitti S, O’Donnell A. (2014) Understanding Patterns of Water Use in a Subtropical Woodland Using Stable Isotopes. European Geosciences Union General Assembly 2015. Vienna, Austria, 12th – 17th April
-
 **Page GFM**, Skrzypek G, Luccitti S, English J, Archibald R, Grierson PF. (2014) Understanding Patterns of Water Use in a Dryland Woodland Using Stable Isotopes of Water and High-Resolution Dendrometers. AGU Fall Meeting, San Francisco, 15th  - 19th December
 
 **Page GFM**, Luccitti S, English J, Archibald R, Grierson PF. (2014) Seasonal and daily cycles of stem radial variation of Eucalyptus victrix in a boom-bust environment. Ecological Society of Australia Annual Conference, Alice Springs Convention Centre, 28th September – 3rd October
-
-Grierson PF, **Page GFM**, Skrzypek G, Argus R, Bleby T, McLean EH. (2014) Understanding functioning of tree root systems in response to hydroclimatic variability. 6th International Symposium on Physiological Processes in Roots of Woody Plants, Nagoya University, Japan, 8th – 13th September
 
 **Page GFM**, Liu J, Grierson PF. (2012) Branch hydraulics and water stress in arid environments. Ecological Society of Australia Annual Conference, The Sebel Albert Park Melbourne, Victoria, 3rd – 7th December
 
@@ -85,6 +86,8 @@ Grierson PF, **Page GFM**, Skrzypek G, Argus R, Bleby T, McLean EH. (2014) Under
 
 ## Invited Presentations
 
+**Page GFM**. (2020) If You Can’t Stand the Heat, Get Out of the Greenhouse: Measuring and Modeling Canopy Temperature with Thermal Imagery. Department of Earth and Environmental Sciences Seminar Series, University of Illinois at Chicago, 12th March.
+
 **Page GFM**, Still CJ, Moffett KB. (2018) If you can’t stand the heat, get out of the greenhouse: measuring and modeling leaf temperature across scales using thermography. Department of Biological Sciences Seminar Series, Northern Arizona University, 9th March.
 
 **Page GFM**, Moffett KB. (2017) Quantifying spatial and temporal dynamics of leaf transpiration using time-series thermal imagery. Department of Forest Ecosystems and Society, Oregon State University, 19th January.
@@ -95,11 +98,12 @@ Grierson PF, **Page GFM**, Skrzypek G, Argus R, Bleby T, McLean EH. (2014) Under
 
 **Page GFM**, Liu J, Grierson PF. (2011) Small differences with large consequences: the importance of phyllode size in arid environments. The Ecology and Evolution of Leaf Vein Networks, Workshop held at The University of Western Australia, 14th November.
 
-## Poster Presentations
+## Poster Presentations as first author
+
+**Page GFM**, Still CJ, Hawkins LR, Hildebrand L, Byron J, Sessa A, Foss K, Berkelhammer M. (2019) Afternoon slump: the role of antecedent snowpack on midday transpiration declines. AGU Fall Meeting, San Francisco, 9th - 13th December
+
 **Page GFM**, Kim Y, Jiang Y, Rastogi B, Wharton S, Kim JB, Kwon H, Law BE, Still CJ. (2019) Comparing leaf temperature with measured and modeled canopy carbon and water fluxes during heat waves. European Geosciences Union General Assembly, Vienna, Austria, 7th - 12th April
 
 **Page GFM**, Pruett MJ, Moffett KB. (2016) A new method to calculate spatially distributed leaf & canopy transpiration from time-series thermal infrared imagery. Gordon Research Conference: Multiscale Plant Vascular Biology. Sunday River, Maine, USA, 26th June – 1st July
-
-Argus R, **Page GFM**, Grierson PF. (2014) Impacts of artificial inundation of ephemeral creed beds on mature riparian eucalypts in semi-arid northwest Australia. European Geosciences Union General Assembly. Vienna, Austria, 27th April – 2nd May
 
 **Page GFM**, Cullen LE, Grierson PF. (2007) Do growth form and phyllode morphology affect water uptake strategies in Acacia aneura? 4th International Symposium on Physiology Processes in Roots of Woody Plants. Bangor, Wales, September 
