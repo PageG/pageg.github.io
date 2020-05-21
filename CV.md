@@ -23,13 +23,13 @@ W: https://pageg.github.io/
 ## Professional appointments
 **(2020 - Present)** Research Scientist, Department of Biodiversity, Conservation and Attractions, Government of Western Australia. [[DBCA website]](https://www.dbca.wa.gov.au/)
 
-**(2019 – 2020)** Postdoctoral Researcher, Rocky Mountain Biological Laboratory, Colorado, USA   
+**(2019 – 2020)** Postdoctoral Researcher, Rocky Mountain Biological Laboratory, Colorado, USA
 with *Dr. Maxwell Berkelhammer* (UIC) and *Dr. Christopher J. Still* (OSU) [[RMBL website]](https://www.rmbl.org/)
 
-**(2017 – 2020)** Postdoctoral Research Associate, Department of Forest Ecosystems & Society, Oregon State University   
+**(2017 – 2020)** Postdoctoral Research Associate, Department of Forest Ecosystems & Society, Oregon State University
 with *Dr. Christopher J. Still* [[website]](http://fes.forestry.oregonstate.edu/people?path=people/still-chris)
 
-**(2015 - 2017)** Postdoctoral Research Associate, School of the Environment, Washington State University Vancouver  
+**(2015 - 2017)** Postdoctoral Research Associate, School of the Environment, Washington State University Vancouver
 with *Dr. Kevan B. Moffett* [[website]](https://labs.wsu.edu/ecohydrology/)
 
 **(2015)** Adjunct Lecturer, School of Plant Biology, The University of Western Australia
