@@ -10,6 +10,7 @@ header_pages:
   - CV.md
   - Publications.md
   - Contact.md
+  - Software.md
 
 # BUILD SETTINGS
 markdown: kramdown
