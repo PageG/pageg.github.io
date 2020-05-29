@@ -3,7 +3,7 @@ layout: page
 title: Software
 ---
 
-![home_image]({{ site.url }}/images/Devils_Ridge_crop.JPG)
+![home_image]({{ site.url }}/images/Devils_Ridge_crop.jpg)
 
 
 ### Imaging PAM 
