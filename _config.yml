@@ -9,9 +9,9 @@ header_pages:
   - index.md
   - CV.md
   - Publications.md
-  - Contact.md
   - Software.md
-
+  - Contact.md
+  
 # BUILD SETTINGS
 markdown: kramdown
 theme: minima
