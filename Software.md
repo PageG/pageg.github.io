@@ -14,4 +14,4 @@ A demonstration of functions to import and process chlorophyll fluorescence imag
 ### Processing fixed-mount thermal imagery 
 [[example here]]() [[github repo here]]()
 
-This is a demonstration script written in R-markdown for importing, correcting and analysing thermal images of a forest canopy. Data were collected using a FLIR A325sc thermal camera when I was an instructor for PhysFestII at Holden Arboretum in July 2018 [[PhysfestII Link]](https://www.k-state.edu/ecophyslab/phys_fest_2.html). 
+This is a demonstration script written in R-markdown for importing, correcting and analysing thermal images of a forest canopy. Data were collected using a FLIR A325sc thermal camera when I was an instructor for PhysFestII at Holden Arboretum in July 2018 [[PhysfestII Link]](https://www.k-state.edu/ecophyslab/phys_fest_2.html). This script uses the ['Thermimage' R package](https://github.com/gtatters/Thermimage).
