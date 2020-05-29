@@ -19,4 +19,4 @@ This is a demonstration script written in R-markdown for importing, correcting a
 ### sapfluxR 
 *coming soon*
 
-An R package for importing and processing sapflow data using the Heat Ratio Method (HRM) technique. 
+An R package for importing and processing Heat Ratio Method (HRM) sapflow data.
