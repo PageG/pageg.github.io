@@ -5,11 +5,10 @@ title: CV
 
 ![home_image]({{ site.url }}/images/mulga.jpg)
 
-321 Richardson Hall  
-Department of Forest Ecosystems and Society  
-Oregon State Unversity  
-Corvallis, OR, USA, 97333  
-E: gerald.page@oregonstate.edu  
+CSIRO Land and Water
+Private Bag 5, PO Wembley WA Australia 6913
+
+E: gerald.page@dbca.wa.gov.au  
 W: https://pageg.github.io/  
 
 ## Education
@@ -22,6 +21,8 @@ W: https://pageg.github.io/
 
 ## Professional appointments
 **(2020 - Present)** Research Scientist, Department of Biodiversity, Conservation and Attractions, Government of Western Australia. [[DBCA website]](https://www.dbca.wa.gov.au/)
+
+**(2020 - Present)** Visiting Scientist, CSIRO Land and Water [[CSIRO]](https://csiro.au/)
 
 **(2019 – 2020)** Postdoctoral Researcher, Rocky Mountain Biological Laboratory, Colorado, USA
 with *Dr. Maxwell Berkelhammer* (UIC) and *Dr. Christopher J. Still* (OSU) [[RMBL website]](https://www.rmbl.org/)
