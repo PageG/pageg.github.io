@@ -5,8 +5,8 @@ title: CV
 
 ![home_image]({{ site.url }}/images/mulga.jpg)
 
-CSIRO Land and Water
-Private Bag 5, PO Wembley WA Australia 6913
+CSIRO Land and Water. 
+Private Bag 5, PO Wembley WA Australia 6913.
 
 E: gerald.page@dbca.wa.gov.au  
 W: https://pageg.github.io/  
