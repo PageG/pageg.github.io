@@ -9,6 +9,8 @@ Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAA
 
 ### Submitted
 
+Haagsma M, **Page GFM**, Johnson JS, Still CJ, Waring KM, Sniezko R, Selker JS. Using hyperspectral imagery to detect an invasive fungal pathogen and symptom severity in Pinus strobiformis seedlings of different genotypes.
+
 Moler E, **Page GFM**, Flores-Renteria L, Garms C, Hull J, Cooper H, Swenson J, Perks S, Waring K, Whipple A. A method for experimental warming of developing tree seeds with a common garden demonstration of seedling responses.
 
 Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. Imaging canopy temperature: Shedding thermal light on ecosystem processes.
