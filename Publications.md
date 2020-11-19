@@ -15,9 +15,10 @@ Moler E, **Page GFM**, Flores-Renteria L, Garms C, Hull J, Cooper H, Swenson J, 
 
 Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. Imaging canopy temperature: Shedding thermal light on ecosystem processes.
 
-Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants.
 
 ### Published
+Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. (Accepted) Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants. Communications Biology.
+
 Still CJ, Sibley A, **Page GFM**, Meinzer FC, Sevanto S. (2019) When a cuvette is not a canopy: a caution about measuring leaf temperature during gas exchange measurements. Agricultural and Forest Meteorology, 279, 107737. [[article]](https://doi.org/10.1016/j.agrformet.2019.107737)
 
 Skrzypek G, Dogramaci S, **Page GFM**, Rouillard A, Grierson PF. (2019) Unique stable isotope signatures of large cyclonic events as a tracer of soil moisture dynamics in the semiarid subtropics. Journal of Hydrology, 578, 124124. [[article]](https://doi.org/10.1016/j.jhydrol.2019.124124)
