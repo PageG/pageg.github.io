@@ -9,8 +9,6 @@ Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAA
 
 ### Submitted
 
-Haagsma M, **Page GFM**, Johnson JS, Still CJ, Waring KM, Sniezko R, Selker JS. Using hyperspectral imagery to detect an invasive fungal pathogen and symptom severity in Pinus strobiformis seedlings of different genotypes.
-
 Moler E, **Page GFM**, Flores-Renteria L, Garms C, Hull J, Cooper H, Swenson J, Perks S, Waring K, Whipple A. A method for experimental warming of developing tree seeds with a common garden demonstration of seedling responses.
 
 Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. Imaging canopy temperature: Shedding thermal light on ecosystem processes.
@@ -18,6 +16,8 @@ Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, H
 
 ### Published
 Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. (Accepted) Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants. Communications Biology.
+
+Haagsma M, **Page GFM**, Johnson JS, Still CJ, Waring KM, Sniezko R, Selker JS. (2020) Using hyperspectral imagery to detect an invasive fungal pathogen and symptom severity in Pinus strobiformis seedlings of different genotypes. 12(24), 4041. [[article]](https://www.mdpi.com/919728)
 
 Still CJ, Sibley A, **Page GFM**, Meinzer FC, Sevanto S. (2019) When a cuvette is not a canopy: a caution about measuring leaf temperature during gas exchange measurements. Agricultural and Forest Meteorology, 279, 107737. [[article]](https://doi.org/10.1016/j.agrformet.2019.107737)
 
