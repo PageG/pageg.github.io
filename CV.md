@@ -44,6 +44,8 @@ with *Dr. Kevan B. Moffett* [[website]](https://labs.wsu.edu/ecohydrology/)
 
 ## Publications
 
+Moler E, **Page GFM**, Flores-Renteria L, Garms C, Hull J, Cooper H, Swenson J, Perks S, Waring K, Whipple A. (Accepted) A method for experimental warming of developing tree seeds with a common garden demonstration of seedling responses. Plant Methods.
+
 Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. (Accepted) Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants. Communications Biology.
 
 Haagsma M, **Page GFM**, Johnson JS, Still CJ, Waring KM, Sniezko R, Selker JS. (2020) Using hyperspectral imagery to detect an invasive fungal pathogen and symptom severity in Pinus strobiformis seedlings of different genotypes. 12(24), 4041. [[article]](https://www.mdpi.com/919728)
