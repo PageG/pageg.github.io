@@ -7,15 +7,17 @@ title: Publications
 
 Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAAAAJ&hl=en) profile.
 
-### Submitted
-
-Moler E, **Page GFM**, Flores-Renteria L, Garms C, Hull J, Cooper H, Swenson J, Perks S, Waring K, Whipple A. A method for experimental warming of developing tree seeds with a common garden demonstration of seedling responses.
+### In Review
 
 Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. Imaging canopy temperature: Shedding thermal light on ecosystem processes.
 
+### Accepted
+
+Moler E, **Page GFM**, Flores-Renteria L, Garms C, Hull J, Cooper H, Swenson J, Perks S, Waring K, Whipple A. (Accepted) A method for experimental warming of developing tree seeds with a common garden demonstration of seedling responses. Plant Methods.
+
+Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. (Accepted) Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants. Communications Biology.
 
 ### Published
-Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. (Accepted) Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants. Communications Biology.
 
 Haagsma M, **Page GFM**, Johnson JS, Still CJ, Waring KM, Sniezko R, Selker JS. (2020) Using hyperspectral imagery to detect an invasive fungal pathogen and symptom severity in Pinus strobiformis seedlings of different genotypes. 12(24), 4041. [[article]](https://www.mdpi.com/919728)
 
