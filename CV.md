@@ -44,11 +44,11 @@ with *Dr. Kevan B. Moffett* [[website]](https://labs.wsu.edu/ecohydrology/)
 
 ## Publications
 
-Moler E, **Page GFM**, Flores-Renteria L, Garms C, Hull J, Cooper H, Swenson J, Perks S, Waring K, Whipple A. (Accepted) A method for experimental warming of developing tree seeds with a common garden demonstration of seedling responses. Plant Methods.
-
 Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. (Accepted) Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants. Communications Biology.
 
-Haagsma M, **Page GFM**, Johnson JS, Still CJ, Waring KM, Sniezko R, Selker JS. (2020) Using hyperspectral imagery to detect an invasive fungal pathogen and symptom severity in Pinus strobiformis seedlings of different genotypes. 12(24), 4041. [[article]](https://www.mdpi.com/919728)
+Moler E, **Page GFM**, Flores-Renteria L, Garms C, Hull J, Cooper H, Swenson J, Perks S, Waring K, Whipple A. (2021) A method for experimental warming of developing tree seeds with a common garden demonstration of seedling responses. Plant Methods, 17(1). [[article]](https://doi.org/10.1186/s13007-020-00700-7)
+
+Haagsma M, **Page GFM**, Johnson JS, Still CJ, Waring KM, Sniezko R, Selker JS. (2020) Using hyperspectral imagery to detect an invasive fungal pathogen and symptom severity in Pinus strobiformis seedlings of different genotypes. Remote Sensing, 12(24), 4041. [[article]](https://www.mdpi.com/919728)
 
 Still CJ, Sibley A, **Page GFM**, Meinzer FC, Sevanto S. (2019) When a cuvette is not a canopy: a caution about measuring leaf temperature during gas exchange measurements. Agricultural and Forest Meteorology, 279, 107737. [[article]](https://doi.org/10.1016/j.agrformet.2019.107737)
 
