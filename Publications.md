@@ -9,7 +9,7 @@ Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAA
 
 ### Accepted
 
-Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. Imaging canopy temperature: Shedding thermal light on ecosystem processes. [[article]](https://doi.org/10.1111/nph.17321)
+Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. Imaging canopy temperature: shedding (thermal) light on ecosystem processes. [[article]](https://doi.org/10.1111/nph.17321)
 
 ### Published
 
