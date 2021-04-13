@@ -21,9 +21,12 @@ W: https://pageg.github.io/
 **BSc. (Hons) (2004)**, The University of Western Australia, Environmental Science  
 
 ## Professional appointments
-**(2020 - Present)** Research Scientist, Department of Biodiversity, Conservation and Attractions, Government of Western Australia. [[DBCA website]](https://www.dbca.wa.gov.au/)
 
-**(2020 - Present)** Visiting Scientist, CSIRO Land and Water [[CSIRO]](https://csiro.au/)
+**(2021 - present)** Research Scientist, CSIRO Health and Biosecurity [[CSIRO]](https://csiro.au/)
+
+**(2020 - 2021)** Research Scientist, Department of Biodiversity, Conservation and Attractions, Government of Western Australia. [[DBCA website]](https://www.dbca.wa.gov.au/)
+
+**(2020 - 2021)** Visiting Scientist, CSIRO Land and Water [[CSIRO]](https://csiro.au/)
 
 **(2019 – 2020)** Postdoctoral Researcher, Rocky Mountain Biological Laboratory, Colorado, USA
 with *Dr. Maxwell Berkelhammer* (UIC) and *Dr. Christopher J. Still* (OSU) [[RMBL website]](https://www.rmbl.org/)
@@ -44,7 +47,7 @@ with *Dr. Kevan B. Moffett* [[website]](https://labs.wsu.edu/ecohydrology/)
 
 ## Publications
 
-Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. (Accepted) Imaging canopy temperature: shedding (thermal) light on ecosystem processes. [[article]](https://doi.org/10.1111/nph.17321)
+Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. (2021) Imaging canopy temperature: shedding (thermal) light on ecosystem processes. New Phytologist. [[article]](https://doi.org/10.1111/nph.17321)
 
 Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. (2021) Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants. Communications Biology, 4, 160. [[article]](https://doi.org/10.1038/s42003-020-01632-7)
 
