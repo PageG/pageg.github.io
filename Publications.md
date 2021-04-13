@@ -7,11 +7,8 @@ title: Publications
 
 Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAAAAJ&hl=en) profile.
 
-### Accepted
-
-Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. Imaging canopy temperature: shedding (thermal) light on ecosystem processes. [[article]](https://doi.org/10.1111/nph.17321)
-
 ### Published
+Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. (2021) Imaging canopy temperature: shedding (thermal) light on ecosystem processes. New Phytologist. [[article]](https://doi.org/10.1111/nph.17321)
 
 Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. (2021) Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants. Communications Biology, 4, 160. [[article]](https://doi.org/10.1038/s42003-020-01632-7)
 
