@@ -5,11 +5,7 @@ title: CV
 
 ![home_image]({{ site.url }}/images/mulga.jpg)
 
-CSIRO Health and Biosecurity  
-Private Bag 5, PO Wembley WA  
-Australia 6913.
-
-E: gerald.page@csiro.au  
+E: gerald.page@dbca.wa.gov.au  
 W: https://pageg.github.io/  
 
 ## Education
@@ -22,11 +18,9 @@ W: https://pageg.github.io/
 
 ## Professional appointments
 
-**(2021 - present)** Research Scientist, CSIRO Health and Biosecurity [[CSIRO]](https://csiro.au/)
+**(2020 - present)** Research Scientist, Department of Biodiversity, Conservation and Attractions, Government of Western Australia. [[DBCA website]](https://www.dbca.wa.gov.au/)
 
-**(2020 - 2021)** Research Scientist, Department of Biodiversity, Conservation and Attractions, Government of Western Australia. [[DBCA website]](https://www.dbca.wa.gov.au/)
-
-**(2020 - 2021)** Visiting Scientist, CSIRO Land and Water [[CSIRO]](https://csiro.au/)
+**(2020 - present)** Visiting Scientist, CSIRO Land and Water [[CSIRO]](https://csiro.au/)
 
 **(2019 – 2020)** Postdoctoral Researcher, Rocky Mountain Biological Laboratory, Colorado, USA
 with *Dr. Maxwell Berkelhammer* (UIC) and *Dr. Christopher J. Still* (OSU) [[RMBL website]](https://www.rmbl.org/)
