@@ -8,6 +8,8 @@ title: Publications
 Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAAAAJ&hl=en) profile.
 
 ### Published
+Haagsma M, **Page GFM**, Selker JS, Johnson JS, Waring KM, Sniezko R, Still CJ. (accepted) Model selection and timing of acquisition date impacts classification accuracy: a case study using hyperspectral imaging to detect white pine blister rust over time. Computers in Electronics and Agriculture.
+
 Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. (2021) Imaging canopy temperature: shedding (thermal) light on ecosystem processes. New Phytologist, 230(5), 1746-1753 [[article]](https://doi.org/10.1111/nph.17321)
 
 Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. (2021) Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants. Communications Biology, 4, 160. [[article]](https://doi.org/10.1038/s42003-020-01632-7)
