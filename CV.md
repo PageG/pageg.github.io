@@ -40,7 +40,7 @@ with *Dr. Kevan B. Moffett* [[website]](https://labs.wsu.edu/ecohydrology/)
 **(2010)** Research Assistant, West Australian Biogeochemistry Center, The University of Western Australia  
 
 ## Publications
-Haagsma M, **Page GFM**, Selker JS, Johnson JS, Waring KM, Sniezko R, Still CJ. (Accepted) Model selection and timing of acquisition date impacts classification accuracy: a case study using hyperspectral imaging to detect white pine blister rust over time. Computers in Electronics and Agriculture.
+Haagsma M, **Page GFM**, Selker JS, Johnson JS, Waring KM, Sniezko R, Still CJ. (2021) Model selection and timing of acquisition date impacts classification accuracy: a case study using hyperspectral imaging to detect white pine blister rust over time. Computers in Electronics and Agriculture. 191, 106555. [[article]](https://doi.org/10.1016/j.compag.2021.106555)
 
 Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. (2021) Imaging canopy temperature: shedding (thermal) light on ecosystem processes. New Phytologist. 230(5), 1746-1753 [[article]](https://doi.org/10.1111/nph.17321)
 
