@@ -44,15 +44,15 @@ Haagsma M, **Page GFM**, Selker JS, Johnson JS, Waring KM, Sniezko R, Still CJ. 
 
 Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. (2021) Imaging canopy temperature: shedding (thermal) light on ecosystem processes. New Phytologist. 230(5), 1746-1753 [[article]](https://doi.org/10.1111/nph.17321)
 
-Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. (2021) Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants. Communications Biology, 4, 160. [[article]](https://doi.org/10.1038/s42003-020-01632-7)
+Menon M, Bagley JC, **Page GFM**, Whipple AV, Schoettle AW, Still CJ, Wehenkel C, Waring K, Flores-Renteria L, Cushman SA, Eckert AJ. (2021) Adaptive evolution in a conifer hybrid zone is driven by a mosaic of recently introgressed and background genetic variants. Communications Biology, 4, 160 [[article]](https://doi.org/10.1038/s42003-020-01632-7)
 
-Moler E, **Page GFM**, Flores-Renteria L, Garms C, Hull J, Cooper H, Swenson J, Perks S, Waring K, Whipple A. (2021) A method for experimental warming of developing tree seeds with a common garden demonstration of seedling responses. Plant Methods, 17(1). [[article]](https://doi.org/10.1186/s13007-020-00700-7)
+Moler E, **Page GFM**, Flores-Renteria L, Garms C, Hull J, Cooper H, Swenson J, Perks S, Waring K, Whipple A. (2021) A method for experimental warming of developing tree seeds with a common garden demonstration of seedling responses. Plant Methods, 17(1) [[article]](https://doi.org/10.1186/s13007-020-00700-7)
 
-Haagsma M, **Page GFM**, Johnson JS, Still CJ, Waring KM, Sniezko R, Selker JS. (2020) Using hyperspectral imagery to detect an invasive fungal pathogen and symptom severity in Pinus strobiformis seedlings of different genotypes. Remote Sensing, 12(24), 4041. [[article]](https://www.mdpi.com/919728)
+Haagsma M, **Page GFM**, Johnson JS, Still CJ, Waring KM, Sniezko R, Selker JS. (2020) Using hyperspectral imagery to detect an invasive fungal pathogen and symptom severity in Pinus strobiformis seedlings of different genotypes. Remote Sensing, 12(24), 4041 [[article]](https://www.mdpi.com/919728)
 
-Still CJ, Sibley A, **Page GFM**, Meinzer FC, Sevanto S. (2019) When a cuvette is not a canopy: a caution about measuring leaf temperature during gas exchange measurements. Agricultural and Forest Meteorology, 279, 107737. [[article]](https://doi.org/10.1016/j.agrformet.2019.107737)
+Still CJ, Sibley A, **Page GFM**, Meinzer FC, Sevanto S. (2019) When a cuvette is not a canopy: a caution about measuring leaf temperature during gas exchange measurements. Agricultural and Forest Meteorology, 279, 107737 [[article]](https://doi.org/10.1016/j.agrformet.2019.107737)
 
-Skrzypek G, Dogramaci S, **Page GFM**, Rouillard A, Grierson PF. (2019) Unique stable isotope signatures of large cyclonic events as a tracer of soil moisture dynamics in the semiarid subtropics. Journal of Hydrology, 578, 124124. [[article]](https://doi.org/10.1016/j.jhydrol.2019.124124)
+Skrzypek G, Dogramaci S, **Page GFM**, Rouillard A, Grierson PF. (2019) Unique stable isotope signatures of large cyclonic events as a tracer of soil moisture dynamics in the semiarid subtropics. Journal of Hydrology, 578, 124124 [[article]](https://doi.org/10.1016/j.jhydrol.2019.124124)
 
 Jiang Y, Still CJ, Rastogi B, **Page GFM**, Wharton S, Meinzer FC, Voelker S, Kim JB. (2019) Trends and controls on water-use efficiency of an old-growth coniferous forest in the Pacific Northwest. Environmental Research Letters, 14, 074029 [[article]](https://doi.org/10.1088/1748-9326/ab2612)
 
