@@ -68,6 +68,8 @@ O’Donnell AJ, Cook ER, Palmer JG, Turney CSM, **Page GFM**, Grierson PF. (2015
 
 
 ## Conference Presentations as first author
+**Page GFM**, Zdunic K, Prober SM. (2021) Satellite-based monitoring of intra- and inter-annual vegetation dynamics in the rangelands. Ecological Society of Australia Annual Conference, Online, 22nd - 26th November
+
 **Page GFM**, Haagsma M, Johnson JS, Sniezko R, Waring KM, Still CJ. (2019) Using thermal and chlorophyll fluorescence imaging to compare the physiological responses of resistant and susceptible seedlings to infection by an invasive pathogen. 12th North American Forest Ecology Workshop, Flagstaff AZ, 24th – 27th June
 
 **Page GFM**, Kim Y, Jiang Y, Rastogi B, Wharton S, Kim JB, Kwon H, Law BE, Still CJ. (2019) Comparing leaf temperature with measured and modeled canopy carbon and water fluxes during heat waves. University of Oregon Climate Change Symposium, Eugene OR, 5th March
