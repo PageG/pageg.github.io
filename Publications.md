@@ -8,6 +8,8 @@ title: Publications
 Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAAAAJ&hl=en) profile.
 
 ### Published
+Still CJ, **Page GFM**, Rastogi B, Griffith DM, Aubrecht DM, Kim Y, Burns SP, Hanson CV, Kwon H, Hawkins L, Meinzer FC, Sevanto S, Roberts D, Goulden M, Pau S, Detto M, Helliker B, Richardson AD. (2022) No evidence of canopy-scale leaf thermoregulation to cool leaves below air temperature across a range of forest ecosystems. Proceedings of the National Academy of Sciences 119:e2205682119 [[article]](https://www.pnas.org/doi/10.1073/pnas.2205682119)
+
 Haagsma M, **Page GFM**, Selker JS, Johnson JS, Waring KM, Sniezko R, Still CJ. (2021) Model selection and timing of acquisition date impacts classification accuracy: a case study using hyperspectral imaging to detect white pine blister rust over time. Computers in Electronics and Agriculture. 191, 106555 [[article]](https://doi.org/10.1016/j.compag.2021.106555)
 
 Still CJ, Rastogi B, **Page GFM**, Griffith D, Sibley A, Schulze M, Hawkins L, Helliker B. (2021) Imaging canopy temperature: shedding (thermal) light on ecosystem processes. New Phytologist, 230(5), 1746-1753 [[article]](https://doi.org/10.1111/nph.17321)
