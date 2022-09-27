@@ -7,6 +7,7 @@ title: Publications
 
 Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAAAAJ&hl=en) profile.
 
+
 ### Published
 Still CJ, **Page GFM**, Rastogi B, Griffith DM, Aubrecht DM, Kim Y, Burns SP, Hanson CV, Kwon H, Hawkins L, Meinzer FC, Sevanto S, Roberts D, Goulden M, Pau S, Detto M, Helliker B, Richardson AD. (2022) No evidence of canopy-scale leaf thermoregulation to cool leaves below air temperature across a range of forest ecosystems. Proceedings of the National Academy of Sciences 119:e2205682119 [[article]](https://www.pnas.org/doi/10.1073/pnas.2205682119)
 
