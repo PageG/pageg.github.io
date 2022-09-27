@@ -16,6 +16,7 @@ W: https://pageg.github.io/
 
 **BSc. (Hons) (2004)**, The University of Western Australia, Environmental Science  
 
+
 ## Professional appointments
 
 **(2020 - present)** Research Scientist, Department of Biodiversity, Conservation and Attractions, Government of Western Australia. [[DBCA website]](https://www.dbca.wa.gov.au/)
