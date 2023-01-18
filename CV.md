@@ -19,9 +19,11 @@ W: https://pageg.github.io/
 
 ## Professional appointments
 
-**(2020 - present)** Research Scientist, Department of Biodiversity, Conservation and Attractions, Government of Western Australia. [[DBCA website]](https://www.dbca.wa.gov.au/)
+**(2023 - Present)** Lecturer, School of Environmental and Conservation Sciences, Murdoch University. [[Murdoch website]](https://www.murdoch.edu.au/)
 
-**(2020 - present)** Visiting Scientist, CSIRO Land and Water [[CSIRO]](https://csiro.au/)
+**(2020 - 2023)** Research Scientist, Department of Biodiversity, Conservation and Attractions, Government of Western Australia. [[DBCA website]](https://www.dbca.wa.gov.au/)
+
+**(2020 - 2023)** Visiting Scientist, CSIRO Land and Water [[CSIRO]](https://csiro.au/)
 
 **(2019 – 2020)** Postdoctoral Researcher, Rocky Mountain Biological Laboratory, Colorado, USA
 with *Dr. Maxwell Berkelhammer* (UIC) and *Dr. Christopher J. Still* (OSU) [[RMBL website]](https://www.rmbl.org/)
