@@ -9,6 +9,8 @@ Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAA
 
 
 ### Published
+Still CJ, **Page GFM**, Rastogi B, Griffith DM, Aubrecht DM, Kim Y, Burns SP, Hanson CV, Kwon H, Hawkins L, Meinzer FC, Sevanto S, Roberts D, Goulden M, Pau S, Detto M, Helliker B, Richardson AD. (2023) Reply to Garen et al.: Within-canopy temperature data also do not support limited homeothermy. Proceedings of the National Academy of Sciences, 120(15) e2302515120 [[article]](https://www.pnas.org/doi/10.1073/pnas.2302515120)
+
 Still CJ, Sibley A, Depinte D, Busby PE, Harrington CA, Schulze M, Shaw DR, Woodruff D, Rupp DE, Daly C, Hammond WM, **Page GFM**. (2023), Causes of Widespread Foliar Damage from the June 2021 Pacific Northwest Heat Dome: More Heat than Drought. Tree Physiology, 2023, tpac143 [[article]](https://doi.org/10.1093/treephys/tpac143)
 
 Still CJ, **Page GFM**, Rastogi B, Griffith DM, Aubrecht DM, Kim Y, Burns SP, Hanson CV, Kwon H, Hawkins L, Meinzer FC, Sevanto S, Roberts D, Goulden M, Pau S, Detto M, Helliker B, Richardson AD. (2022) No evidence of canopy-scale leaf thermoregulation to cool leaves below air temperature across a range of forest ecosystems. Proceedings of the National Academy of Sciences, 119:e2205682119 [[article]](https://www.pnas.org/doi/10.1073/pnas.2205682119)
