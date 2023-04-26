@@ -4,7 +4,7 @@ title: Contact
 ---
 
 
-E: gerald.page@dbca.wa.gov.au  
+E: gerald.page@murdoch.edu.au  
 W: pageg.github.io  
 
 <a rel="me" href="https://aus.social/@gfmpage">Mastodon</a>
