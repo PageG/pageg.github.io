@@ -9,6 +9,8 @@ Also see my [Google Scholar](https://scholar.google.com/citations?user=5zlFWawAA
 
 
 ### Published
+Jucker T, Gosper CR, Wiehl G, Yeoh PB, Raisbeck-Brown N, Fischer FJ, Graham J, Langley H, Newchurch W, O'Donnell AJ, **Page GFM**, Zdunic K, Prober SM. (2023) Using multi-platform LiDAR to guide the conservation of the world's largest temperate woodland. Remote Sensing of Environment, 296, 113745 [[article]](https://doi.org/10.1016/j.rse.2023.113745)
+
 Still CJ, **Page GFM**, Rastogi B, Griffith DM, Aubrecht DM, Kim Y, Burns SP, Hanson CV, Kwon H, Hawkins L, Meinzer FC, Sevanto S, Roberts D, Goulden M, Pau S, Detto M, Helliker B, Richardson AD. (2023) Reply to Garen et al.: Within-canopy temperature data also do not support limited homeothermy. Proceedings of the National Academy of Sciences, 120(15) e2302515120 [[article]](https://www.pnas.org/doi/10.1073/pnas.2302515120)
 
 Still CJ, Sibley A, Depinte D, Busby PE, Harrington CA, Schulze M, Shaw DR, Woodruff D, Rupp DE, Daly C, Hammond WM, **Page GFM**. (2023), Causes of Widespread Foliar Damage from the June 2021 Pacific Northwest Heat Dome: More Heat than Drought. Tree Physiology, 43(2), 203-209 [[article]](https://doi.org/10.1093/treephys/tpac143)
