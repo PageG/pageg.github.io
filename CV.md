@@ -43,6 +43,7 @@ with *Dr. Kevan B. Moffett* [[website]](https://labs.wsu.edu/ecohydrology/)
 **(2010)** Research Assistant, West Australian Biogeochemistry Center, The University of Western Australia  
 
 ## Publications
+Jucker T, Gosper CR, Wiehl G, Yeoh PB, Raisbeck-Brown N, Fischer FJ, Graham J, Langley H, Newchurch W, O'Donnell AJ, **Page GFM**, Zdunic K, Prober SM. (2023) Using multi-platform LiDAR to guide the conservation of the world's largest temperate woodland. Remote Sensing of Environment, 296, 113745 [[article]](https://doi.org/10.1016/j.rse.2023.113745)
 
 Still CJ, **Page GFM**, Rastogi B, Griffith DM, Aubrecht DM, Kim Y, Burns SP, Hanson CV, Kwon H, Hawkins L, Meinzer FC, Sevanto S, Roberts D, Goulden M, Pau S, Detto M, Helliker B, Richardson AD. (2023) Reply to Garen et al.: Within-canopy temperature data also do not support limited homeothermy. Proceedings of the National Academy of Sciences, 120(15) e2302515120 [[article]](https://www.pnas.org/doi/10.1073/pnas.2302515120)
 
