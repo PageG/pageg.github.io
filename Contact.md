@@ -5,7 +5,8 @@ title: Contact
 
 
 E: gerald.page@murdoch.edu.au  
-W: pageg.github.io  
+W: pageg.github.io
+[[Murdoch University]](https://researchportal.murdoch.edu.au/esploro/profile/gerald_page/overview)
 
 <a rel="me" href="https://aus.social/@gfmpage">Mastodon</a>
 
