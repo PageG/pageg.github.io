@@ -5,7 +5,6 @@ title: CV
 
 ![home_image]({{ site.url }}/images/mulga.jpg)
 
-E: gerald.page@dbca.wa.gov.au  
 W: https://pageg.github.io/  
 
 ## Education
